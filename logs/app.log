@@ -1,0 +1,16 @@
+2025-03-18 09:59:16 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91937\Automation_Workspace\OpencartV124\grouping.xml
+
+2025-03-18 09:59:28 [main] INFO  testCases.TC_002_LoginTest - ******Started TC_002_LoginTest***
+2025-03-18 09:59:31 [main] INFO  testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest***
+2025-03-18 10:11:57 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\91937\Automation_Workspace\OpencartV124\master.xml
+
+2025-03-18 10:12:03 [main] INFO  testCases.TC001_AccountRegistrationTest - ******Starting TC001_AccountRegistrationTest ******
+2025-03-18 10:12:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on MyAccount Link..
+2025-03-18 10:12:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on Register Link..
+2025-03-18 10:12:04 [main] INFO  testCases.TC001_AccountRegistrationTest - Providing customer details....
+2025-03-18 10:12:06 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message...
+2025-03-18 10:12:07 [main] INFO  testCases.TC001_AccountRegistrationTest - ********Finished TC001_AccountRegistrationTest ****
+2025-03-18 10:12:13 [main] INFO  testCases.TC_002_LoginTest - ******Started TC_002_LoginTest***
+2025-03-18 10:12:15 [main] INFO  testCases.TC_002_LoginTest - ******Finished TC_002_LoginTest***
